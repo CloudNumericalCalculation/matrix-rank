@@ -1,4 +1,4 @@
-# matrix-baisc
+# matrix-rank
 矩阵的秩
 
 本工具使用numpy.matrix实现
